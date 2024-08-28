@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "admin",
+    "database": "wellfound",
+    "password": "wellfound",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "test": {
+    "username": "admin",
+    "database": "wellfound",
+    "password": "wellfound",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "production": {
+    "username": "admin",
+    "database": "wellfound",
+    "password": "wellfound",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5432
+  }
+}

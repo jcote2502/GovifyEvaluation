@@ -1,0 +1,45 @@
+// Prefabricated Data for choice of user download
+
+// I went with people who wouldn't appear on the site :)
+
+const candidateData = [
+    { firstName: 'Ariana', lastName: 'Grande', email: 'ariana.grande@example.com' },
+    { firstName: 'Dwayne', lastName: 'Johnson', email: 'dwayne.johnson@example.com' },
+    { firstName: 'Taylor', lastName: 'Swift', email: 'taylor.swift@example.com' },
+    { firstName: 'Rihanna', lastName: 'Fenty', email: 'rihanna.fenty@example.com' },
+    { firstName: 'Brad', lastName: 'Pitt', email: 'brad.pitt@example.com' },
+    { firstName: 'Beyoncé', lastName: 'Knowles', email: 'beyonce.knowles@example.com' },
+    { firstName: 'Leonardo', lastName: 'DiCaprio', email: 'leonardo.dicaprio@example.com' },
+    { firstName: 'Selena', lastName: 'Gomez', email: 'selena.gomez@example.com' },
+    { firstName: 'Kim', lastName: 'Kardashian', email: 'kim.kardashian@example.com' },
+    { firstName: 'Chris', lastName: 'Hemsworth', email: 'chris.hemsworth@example.com' },
+    { firstName: 'Miley', lastName: 'Cyrus', email: 'miley.cyrus@example.com' },
+    { firstName: 'Emma', lastName: 'Watson', email: 'emma.watson@example.com' },
+    { firstName: 'Robert', lastName: 'Pattinson', email: 'robert.pattinson@example.com' },
+    { firstName: 'Jennifer', lastName: 'Lawrence', email: 'jennifer.lawrence@example.com' },
+    { firstName: 'Katy', lastName: 'Perry', email: 'katy.perry@example.com' },
+    { firstName: 'Johnny', lastName: 'Depp', email: 'johnny.depp@example.com' },
+    { firstName: 'Scarlett', lastName: 'Johansson', email: 'scarlett.johansson@example.com' },
+    { firstName: 'George', lastName: 'Clooney', email: 'george.clooney@example.com' },
+    { firstName: 'Natalie', lastName: 'Portman', email: 'natalie.portman@example.com' },
+    { firstName: 'Will', lastName: 'Smith', email: 'will.smith@example.com' },
+    { firstName: 'Jada', lastName: 'Pinkett', email: 'jada.pinkett@example.com' },
+    { firstName: 'Drake', lastName: 'Graham', email: 'drake.graham@example.com' },
+    { firstName: 'Cardi', lastName: 'B', email: 'cardi.b@example.com' },
+    { firstName: 'Shawn', lastName: 'Mendes', email: 'shawn.mendes@example.com' },
+    { firstName: 'Zayn', lastName: 'Malik', email: 'zayn.malik@example.com' },
+    { firstName: 'Billie', lastName: 'Eilish', email: 'billie.eilish@example.com' },
+    { firstName: 'Post', lastName: 'Malone', email: 'post.malone@example.com' },
+    { firstName: 'Halsey', lastName: 'Ashley', email: 'halsey.ashley@example.com' },
+    { firstName: 'Megan', lastName: 'Thee Stallion', email: 'megan.stallion@example.com' },
+    { firstName: 'Adele', lastName: 'Adkins', email: 'adele.adkins@example.com' },
+    { firstName: 'Sophie', lastName: 'Turner', email: 'sophie.turner@example.com' },
+    { firstName: 'Maisie', lastName: 'Williams', email: 'maisie.williams@example.com' },
+    { firstName: 'Kit', lastName: 'Harington', email: 'kit.harington@example.com' },
+    { firstName: 'Henry', lastName: 'Cavill', email: 'henry.cavill@example.com' },
+    { firstName: 'Tom', lastName: 'Holland', email: 'tom.holland@example.com' },
+    { firstName: 'Chris', lastName: 'Evans', email: 'chris.evans@example.com' },
+    { firstName: 'Robert', lastName: 'Downey Jr.', email: 'robert.downeyjr@example.com' },
+];
+
+module.exports = candidateData;
